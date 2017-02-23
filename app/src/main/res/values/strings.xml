@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Pizza</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="ordering_instruction">Tap a menu item to add to the order.</string>
+
+    <string name="location_permission_title">Location Permission</string>
+    <string name="location_permission_description">The app needs to know where you are to submit an order for delivery.</string>
+
+
+    <!-- geocoding service -->
+    <string name="service_not_available">Geocoding not available</string>
+    <string name="invalid_lat_long_used">Invalid LatLon</string>
+    <string name="no_address_found">No address found</string>
+    <string name="address_found">Address found</string>
+
+
+    <string name="detail_view_message">"Here's where we open the detail view"</string>
+    <string name="order_submitted">"Here's where we submit the order"</string>
+
+
+    <string name="credit">"Created by Tyson Macdonald"</string>
+
+
+    <string-array name="pizza_images">
+        <item>cheese.png</item>
+        <item>neo.png</item>
+        <item>sicilian.png</item>
+        <item>pepperoni.png</item>
+        <item>meatballer.png</item>
+        <item>everything.png</item>
+    </string-array>
+
+    <string-array name="pizza_names">
+        <item>Cheese</item>
+        <item>Neapolitan</item>
+        <item>Sicilian</item>
+        <item>Pepperoni</item>
+        <item>Meatballer</item>
+        <item>Godmother</item>
+    </string-array>
+
+</resources>
